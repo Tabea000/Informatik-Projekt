@@ -1,6 +1,6 @@
 # Informatik-Projekt
 
-## Unser Stundenblock
+## Unser Stundenblog
 
 [Erste Stunde](#eins)
 
