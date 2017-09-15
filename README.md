@@ -14,7 +14,8 @@ In der zweiten Stunde erstellten wir beide unsere Profile auf der Webside „Git
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Erste%20Stunde.png?raw=true "Screenshot von AppLab")
 Unsere Lösung für das Eichhörnchen-Rätsel
-
+>
+>
 ### <a name="zwei"></a>Zweite Informatikstunde am 13.09.17
 
 In dieser Stunde haben wir uns weiter mit „Github" auseinandergesetzt.Da uns ein Fehler unterlaufen ist (Juliane hat Tabea ausversehen aus dem Projekt ausgeschlossen) und wir diesen nicht beheben konnten, mussten wir einen alternativen Weg gehen und ein neues Projekt starten. Mit der Hilfe von Herrn Buhl haben wir es geschafft, unseren ersten Bericht über das Inhaltsverzeichnis zu verlinken. Des weiteren haben wir versucht, ein Bildverzeichnis zu erstellen und Screenshots hochzuladen. Dazu haben wir uns Lernvideos angeguckt, jedoch mussten wir die Ausführung auf die nächste Stunde verschieben, da keine weitere Zeit verblieben war. 
