@@ -27,4 +27,5 @@ Unsere Links im Raw-Modus
 Unser heutiges Ziel setzten wir uns zum einen beim Einfügen der zuvor in einem Ordner gespeicherten Screenshots in diesen Projektordner und zum anderen bei der Auswahl unserer gleichwertigen Leistung. Ersteres schlossen wir nach verschiedenen Versuchen erfolgreich ab. Schwierigkeiten entstanden zunächst dabei, ein Bildverzeichnes als Ordner für die Bilder zu erstellen, anstelle sie als einzelne Datein hochzuladen. Da wir nicht weiterkamen, erfragten wir uns Unterstützung bei unserem Lehrer, welcher uns das Vorgehen erklärt hat.
 
 ![bsp applab] (https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Zweite%20Stunde.png?raw=true "Screenshot von AppLab")
+
 Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnten. Damit dieser als ein solcher sichtbar ist, haben wir ein weiteres Leerzeichen eingebaut.
