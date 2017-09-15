@@ -1,6 +1,6 @@
 # Informatik-Projekt
 
-## Unser Sundenblock
+## Unser Stundenblock
 
 [Erste Stunde](#eins)
 
