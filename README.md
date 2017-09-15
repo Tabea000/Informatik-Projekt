@@ -11,9 +11,9 @@ In der zweiten Stunde erstellten wir beide unsere Profile auf der Webside „Git
 
 
 
-https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Erste%20Stunde.png?raw=true
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Erste%20Stunde.png?raw=true "Screenshot von AppLab")
 
-![bsp applab](image/applab_bsp.jpg "Screenshot von AppLab")
+(image/applab_bsp.jpg "Screenshot von AppLab")
 
 
 
