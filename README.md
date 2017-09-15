@@ -4,7 +4,7 @@
 
 [Zweite Stunde](#zwei)
 
-## <a name="eins"></a>Erste Informatikstunde am 08.09.17 
+### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
 
 Heute haben wir unser Halbjahresprojekt gestartet. Zunächst haben wir damit begonnen, mit dem Onlineprogramm CODE einige leichterte Aufgaben im Bereich der Blockschrift zu bearbeiten. Einige Schwierigkeiten ergaben sich bei „Level 22 Extrem- Herausforderung“, beim Erreichen der niedrigsten möglichen Blockzahl. Unser Ziel setzten wir uns bei 10 Blöcken, mit einigen Versuchen senkten wir unsere Anzahl von 16 auf 11 Blöcke. Mit diesem Ergebnis sind wir sehr zufrieden, da wir bei keinerlei Erfahrungen in diesem Fachbereich besitzen.
 In der zweiten Stunde erstellten wir beide unsere Profile auf der Webside „Github“ und eröffneten unser erstes Projekt auf das wir gemeinsam Zugriff haben.
