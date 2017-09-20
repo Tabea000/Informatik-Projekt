@@ -8,6 +8,9 @@
 
 [Dritte Stunde](#drei)
 
+[Vierte Stunde](#vier)
+
+
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
 
@@ -31,3 +34,7 @@ Unser heutiges Ziel setzten wir uns zum einen beim Einfügen der zuvor in einem 
 ![bsp applab] (https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Zweite%20Stunde.png?raw=true "Screenshot von AppLab")
 
 Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnten. Damit dieser als ein solcher sichtbar ist, haben wir ein weiteres Leerzeichen eingebaut.
+
+### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
+
+Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten Kurs an. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen.
