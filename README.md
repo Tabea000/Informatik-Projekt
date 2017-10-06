@@ -37,7 +37,7 @@ Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnte
 
 ### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
 
-Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten Kurs an. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Zudem haben wir es geschafft, dass Alonzo etwas gesprochen hat. Zum Ende der Stunde hin haben wir anhand der Programmiersprache Alonzo "random" im Feld herumspringen lassen.
+Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten und auch einfachsten Kurs an, um uns mit diesem Programm vertraut zu machen. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Das haben wir geschafft, indem wir einen zweiten Alonzo importiert haben und ihn über das edit-Programm spiegelverkehrt zum ersten Alonzo bearbeitet haben. Nachdem wir den Baustein "when i'm clicked" und "change costume" zusammengestellt haben, hat das Bild zwischen beiden Alonzos geschaltet und somit seine Blickrichtung verändert. Zudem haben wir es geschafft, dass Alonzo etwas gesprochen hat. Zum Ende der Stunde hin haben wir anhand der Programmiersprache Alonzo "random" im Feld herumspringen lassen.
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/Informatik-Projekt/master/Bilder/Dritte%20Stunde3..png "Screenshot von AppLab")
  
