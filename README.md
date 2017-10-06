@@ -37,10 +37,11 @@ Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnte
 
 ### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
 
-Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten und auch einfachsten Kurs an, um uns mit diesem Programm vertraut zu machen. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Das haben wir geschafft, indem wir einen zweiten Alonzo importiert haben und ihn über das edit-Programm spiegelverkehrt zum ersten Alonzo bearbeitet haben. Nachdem wir den Baustein "when i'm clicked" und "change costume" zusammengestellt haben, hat das Bild zwischen beiden Alonzos geschaltet und somit seine Blickrichtung verändert. Zudem haben wir es geschafft, dass Alonzo etwas gesprochen hat. Zum Ende der Stunde hin haben wir anhand der Programmiersprache Alonzo "random" im Feld herumspringen lassen.
+Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten und auch einfachsten Kurs an, um uns mit diesem Programm vertraut zu machen. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Das haben wir geschafft, indem wir einen zweiten Alonzo importiert haben und ihn über das edit-Programm spiegelverkehrt zum ersten Alonzo bearbeitet haben. Nachdem wir den Baustein "when i'm clicked" und "next costume" zusammengestellt haben, hat das Bild zwischen beiden Alonzos geschaltet und somit seine Blickrichtung verändert. Zudem haben wir es geschafft, dass Alonzo anhand von "say..." gesprochen hat. Zum Ende der Stunde hin haben wir anhand der Programmiersprache Alonzo "random" im Feld herumspringen lassen. Dies gelang uns mit dem Bausteinen "go to x(),y()", wo man einen Punkt aus dem Feld einträgt, zu dem sich etwas begen soll. Indem  
+wir "pick random" bei x und y eingesetzt haben, wurden zufällig Punkte ausgesucht, zu denen sich Alonzo bewegte.
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/Informatik-Projekt/master/Bilder/Dritte%20Stunde3..png "Screenshot von AppLab")
- 
+Der Block für das zufällige Bewegen und für das Sprechen 
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 04.10.17
 
