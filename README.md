@@ -10,7 +10,7 @@
 
 [Vierte Stunde](#vier)
 
-
+[Fünfte Stunde](#fünf)
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
 
@@ -40,8 +40,10 @@ Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnte
 Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten Kurs an. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Zudem haben wir es geschafft, dass Alonzo etwas gesprochen hat. Zum Ende der Stunde hin haben wir anhand der Programmiersprache Alonzo "random" im Feld herumspringen lassen.
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/Informatik-Projekt/master/Bilder/Dritte%20Stunde3..png "Screenshot von AppLab")
+ 
 
+### <a name="fünf"></a>Fünfte Informatikstunde am 04.10.17
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/Informatik-Projekt/master/Bilder/Dritte%20Stunde3..png "Screenshot von AppLab
-
+Leider konnten wir knapp zwei Wochen nicht an unserem Projekt weiterarbeiten, da die Informatikstunden ausgefallen sind. Deswegen haben wir am Mittwochmorgen zunächst unseren Kurs mit Alonzo kurz wiederholt, um uns dann der Nächsten Aufgabe zu widmen. Diese betand darin, ein Spiel zu programmieren. In diesem Spiel geht es darum, dass Alonzo immer blasser wird, wenn man ihn anklickt. Das Ziel besteht darin, so oft auf ihn zu klicken, bis er vollkommen verschwunden ist. Es ist schwierig, da sich Alonzo, wie in der letzten Stunde "random" auf dem Feld bewegt, und das recht schnell.
+Zunächst haben wir wieder unseren Block von der letzten Stunde erneut gebaut.
 
