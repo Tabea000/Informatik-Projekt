@@ -45,8 +45,9 @@ Der Block für das zufällige Bewegen und für das Sprechen
 ### <a name="fünf"></a>Fünfte Informatikstunde am 04.10.17
 
 Leider konnten wir knapp zwei Wochen nicht an unserem Projekt weiterarbeiten, da die Informatikstunden ausgefallen sind. Deswegen haben wir am Mittwochmorgen zunächst unseren Kurs mit Alonzo kurz wiederholt, um uns dann der Nächsten Aufgabe zu widmen. Diese betand darin, ein Spiel zu programmieren. In diesem Spiel geht es darum, dass Alonzo immer blasser wird, wenn man ihn anklickt. Das Ziel besteht darin, so oft auf ihn zu klicken, bis er vollkommen verschwunden ist. Es ist schwierig, da sich Alonzo, wie in der letzten Stunde "random" auf dem Feld bewegt, und das recht schnell.
-Zunächst haben wir unseren Block von der letzten Stunde erneut gebaut, der Alonzo die "random"-Bewegung verleiht.Dieses Mal tat er dieses von selbst in einem Abstand von eines Sekunde. Damit es immer blasser wird, haben wir noch die Bausteine "when i'm clicked" und "ghost" hinzugefügt. Damit Alonzo wieder sichtbar wurde, haben wir lediglich Zahl, die die Stärke der Verblassung pro Klick kontrolliert, in eine negative verwandelt. So wurde der Vorgang im Spiel praktisch umgekehrt. 
+Zunächst haben wir unseren Block von der letzten Stunde erneut gebaut, der Alonzo die "random"-Bewegung verleiht.Dieses Mal tat er dieses von selbst in einem Abstand von eines Sekunde. Damit es immer blasser wird, haben wir noch die Bausteine "when i'm clicked" und "ghost" hinzugefügt. Um Alonzo wieder sichtbar zu machen, haben wir lediglich Zahl, die die Stärke der Verblassung pro Klick kontrolliert, in eine negative verwandelt. So wurde der Vorgang im Spiel praktisch umgekehrt.Damit das Spiel nich an einer Stelle aufhört, wurde noch der Baustein "forever" eingefügt, sodass der Vorgang innerhalb dieser Klammer ewig abläuft. 
 Je niedriger wir die Sekundenzahl,nach der Alonzo sich bewegt, gesetzt haben, desto schwieriger wurde das Spiel.  
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Fünfte%20Stunde.png?raw=true "Screenshot von AppLab")
+Dies ist unser Block zu dem erstellten Spiel
 
