@@ -37,4 +37,8 @@ Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnte
 
 ### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
 
-Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten Kurs an. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen.
+Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten Kurs an. In diesem galt es das Wesen Alonzo in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Zudem haben wir es geschafft, dass Alonzo etwas gesprochen hat. Zum Ende der Stunde hin haben wir anhand der Programmiersprache Alonzo "random" im Feld herumspringen lassen.
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Erste%20Stunde.png?raw=true "Screenshot von AppLab")
+
+
