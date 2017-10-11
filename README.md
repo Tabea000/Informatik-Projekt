@@ -12,6 +12,11 @@
 
 [Fünfte Stunde](#fünf)
 
+[Sechste Stunde](#sechs)
+
+[Siebte Stunde](#sieben)
+
+
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
 
 Heute haben wir unser Halbjahresprojekt gestartet. Zunächst haben wir damit begonnen, mit dem Onlineprogramm CODE einige leichterte Aufgaben im Bereich der Blockschrift zu bearbeiten. Einige Schwierigkeiten ergaben sich bei „Level 22 Extrem- Herausforderung“, beim Erreichen der niedrigsten möglichen Blockzahl. Unser Ziel setzten wir uns bei 10 Blöcken, mit einigen Versuchen senkten wir unsere Anzahl von 16 auf 11 Blöcke. Mit diesem Ergebnis sind wir sehr zufrieden, da wir bei keinerlei Erfahrungen in diesem Fachbereich besitzen.
@@ -51,3 +56,8 @@ Je niedriger wir die Sekundenzahl,nach der Alonzo sich bewegt, gesetzt haben, de
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Fünfte%20Stunde.png?raw=true "Screenshot von AppLab")
 Dies ist unser Block zu dem erstellten Spiel
 
+
+### <a name="sechs"></a>Sechste Informatikstunde am 06.10.17
+
+
+### <a name="sieben"></a>Siebte Informatikstunde am 11.10.17
