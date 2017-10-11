@@ -19,7 +19,7 @@
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
 
-Heute haben wir unser Halbjahresprojekt gestartet. Zunächst haben wir damit begonnen, mit dem Onlineprogramm CODE einige leichterte Aufgaben im Bereich der Blockschrift zu bearbeiten. Einige Schwierigkeiten ergaben sich bei „Level 22 Extrem- Herausforderung“, beim Erreichen der niedrigsten möglichen Blockzahl. Unser Ziel setzten wir uns bei 10 Blöcken, mit einigen Versuchen senkten wir unsere Anzahl von 16 auf 11 Blöcke. Mit diesem Ergebnis sind wir sehr zufrieden, da wir bei keinerlei Erfahrungen in diesem Fachbereich besitzen.
+Heute haben wir unser Halbjahresprojekt gestartet. Zunächst haben wir damit begonnen, mit dem Onlineprogramm CODE einige leichterte Aufgaben im Bereich der Blockschrift zu bearbeiten,da uns diese Art von Programmieren gefallen hat. Einige Schwierigkeiten ergaben sich bei „Level 22 Extrem- Herausforderung“, beim Erreichen der niedrigsten möglichen Blockzahl. Unser Ziel setzten wir uns bei 10 Blöcken, mit einigen Versuchen senkten wir unsere Anzahl von 16 auf 11 Blöcke. Mit diesem Ergebnis sind wir sehr zufrieden, da wir beide noch keinerlei Erfahrungen in diesem Bereich besitzen.
 In der zweiten Stunde erstellten wir beide unsere Profile auf der Webside „Github“ und eröffneten unser erstes Projekt, auf das wir gemeinsam Zugriff haben.
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Erste%20Stunde.png?raw=true "Screenshot von AppLab")
@@ -34,7 +34,7 @@ Unsere Links im Raw-Modus
 
 ### <a name="drei"></a>Dritte Informatikstunde am 15.09.17 
 
-Unser heutiges Ziel setzten wir uns zum einen beim Einfügen der zuvor in einem Ordner gespeicherten Screenshots in diesen Projektordner und zum anderen bei der Auswahl unserer gleichwertigen Leistung. Ersteres schlossen wir nach verschiedenen Versuchen erfolgreich ab. Schwierigkeiten entstanden zunächst dabei, ein Bildverzeichnes als Ordner für die Bilder zu erstellen, anstelle sie als einzelne Datein hochzuladen. Da wir nicht weiterkamen, erfragten wir uns Unterstützung bei unserem Lehrer, welcher uns das Vorgehen erklärt hat.
+Unser heutiges Ziel setzten wir uns zum einen beim Einfügen der zuvor in einem Ordner gespeicherten Screenshots in diesen Projektordner und zum anderen bei der Auswahl unserer gleichwertigen Leistung. Ersteres schlossen wir nach verschiedenen Versuchen erfolgreich ab. Schwierigkeiten entstanden zunächst dabei, ein Bildverzeichnes als Ordner für die Bilder zu erstellen, anstelle sie als einzelne Datein hochzuladen. Da wir nicht weiterkamen, erfragten wir uns Unterstützung bei unserem Lehrer, welcher uns das Vorgehen erklärt hat. Um unser zweites Ziel erreichen zu können, schauten wir uns die Beispiele von Herrn Buhl aus seinem, für uns Schüler angelegtem Projekt "Wege durch den Informatikunerricht mit Herrn Buhl" auf GitHub genauer an. Wir probierten ein Paar Vorschläge, wie "Greenfoot", aus. Da wir schon in der ersten Stunde viel mit der Blockschreibweise ausprobiert hatten, etschieden wir uns für "Beauty and Joy of Computering". Dieser Onlinekurs ist zwar auf Englisch, jedoch ist er vom Schwierigkeitsgrad Prima für Anfänger auf diesem Gebiet, also wir beide, geschaffen.  
 
 ![bsp applab] (https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Zweite%20Stunde.png?raw=true "Screenshot von AppLab")
 
@@ -62,11 +62,11 @@ Dies ist unser Block zu dem erstellten Spiel
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 11.10.17
 
-An diesem Mittwoch wollten wir unsere Fähigkeiten, ein Gespräch zu programmieren, etwas spezialisieren. Unser Onlinekurs "The Beauty and Joy of Computering" hielt dafür eine Lerneinheit bereit, bei der man im Prinzip selbst eine Konversation mit einer Figur aus dem Programm (dieses heißt übrigens "Snap!" und wir von dem Onlinekurs zur Verfügung gestellt) geführt haben. Hierbei war das Endergebniss eine sogenannte "player list", die sich Namen merkt, nachdem sie in eingetragen worden sind. So hat die Figur an Anfang des Gespräches nach deinen Namen gefragt. Diesen hat man eingegeben, er wurde auf der Liste gespeichert und die Figur hat einen mit "Nice to meet you" gegrüßt. Hat man nun seinen bereits vorbemerkten Namen bei einem erneuten Durchgang eingegeben, so wurde man mit "Nice to meet you again,Name" angesprochen. 
+An diesem Mittwoch wollten wir unsere Fähigkeiten, ein Gespräch zu programmieren, etwas spezialisieren. Unser Onlinekurs "Beauty and Joy of Computering" hielt dafür eine Lerneinheit bereit, bei der man im Prinzip selbst eine Konversation mit einer Figur aus dem Programm (dieses heißt übrigens "Snap!" und wir von dem Onlinekurs zur Verfügung gestellt) geführt haben. Hierbei war das Endergebniss eine sogenannte "player list", die sich Namen merkt, nachdem sie in eingetragen worden sind. So hat die Figur an Anfang des Gespräches nach deinen Namen gefragt. Diesen hat man eingegeben, er wurde auf der Liste gespeichert und die Figur hat einen mit "Nice to meet you" gegrüßt. Hat man nun seinen bereits vorbemerkten Namen bei einem erneuten Durchgang eingegeben, so wurde man mit "Nice to meet you again,Name" angesprochen. 
 Die Bausteine zu dieser Aufgabe waren uns größtenteils noch von früheren bekannt, jedoch gab es auch Neue. Bekannt mach mussten wir uns mit "player list", "answer", "join..." und "add...to". Dies haben wir in dieser Stunde gut geschafft und sie in nächster Zeit mit erworbener Vertrautheit zum programmieren zu nutzen.
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/7.%20Stunde.png?raw=true "Screenshot von AppLab")
-So sieht der Block für die Konversation mit Namensspeicherung aus
+So sieht der Block für die Konversation mit Namensspeicherung aus. Links neben der Figur ist die "player list" zu sehen. 
 
 
 
