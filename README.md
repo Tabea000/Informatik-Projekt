@@ -38,7 +38,7 @@ Unser heutiges Ziel setzten wir uns zum einen beim Einfügen der zuvor in einem 
 
 ![bsp applab] (https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Zweite%20Stunde.png?raw=true "Screenshot von AppLab")
 
-Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnten. Damit dieser als ein solcher sichtbar ist, haben wir ein weiteres Leerzeichen eingebaut.
+Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnten. Damit dieser als ein solcher sichtbar ist, haben wir ein weiteres Leerzeichen eingebaut. Der komplette Link wird im "raw"-Modus sichtbar.
 
 ### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
 
@@ -62,9 +62,11 @@ Dies ist unser Block zu dem erstellten Spiel
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 11.10.17
 
+An diesem Mittwoch wollten wir unsere Fähigkeiten, ein Gespräch zu programmieren, etwas spezialisieren. Unser Onlinekurs "The Beauty and Joy of Computering" hielt dafür eine Lerneinheit bereit, bei der man im Prinzip selbst eine Konversation mit einer Figur aus dem Programm (dieses heißt übrigens "Snap!" und wir von dem Onlinekurs zur Verfügung gestellt) geführt haben. Hierbei war das Endergebniss eine sogenannte "player list", die sich Namen merkt, nachdem sie in eingetragen worden sind. So hat die Figur an Anfang des Gespräches nach deinen Namen gefragt. Diesen hat man eingegeben, er wurde auf der Liste gespeichert und die Figur hat einen mit "Nice to meet you" gegrüßt. Hat man nun seinen bereits vorbemerkten Namen bei einem erneuten Durchgang eingegeben, so wurde man mit "Nice to meet you again,Name" angesprochen. 
+Die Bausteine zu dieser Aufgabe waren uns größtenteils noch von früheren bekannt, jedoch gab es auch Neue. Bekannt mach mussten wir uns mit "player list", "answer", "join..." und "add...to". Dies haben wir in dieser Stunde gut geschafft und sie in nächster Zeit mit erworbener Vertrautheit zum programmieren zu nutzen.
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/7.%20Stunde.png?raw=true "Screenshot von AppLab")
-
+So sieht der Block für die Konversation mit Namensspeicherung aus
 
 
 
