@@ -82,5 +82,7 @@ In der heutigen Doppelstunde haben wir damit begonnen unser ungeordnetes Bilderv
 Daraufhin begannen wir unterschiedlich gegliederte "Angles" mehrfarbig zu erstellen. Hierfür legten wir Farbe, Längen und die Zeiteinheiten in verschiedenen Bausteinen fest:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.Stunde.png?raw=true "Screenshot von AppLab")
 
+Des weiteren erstellten wir einen "pinweel"-Block:
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.%20Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
-
+Durch das Erstellen eines eigenen Bausteins konnten wir den Block 
