@@ -56,7 +56,7 @@ Leider konnten wir knapp zwei Wochen nicht an unserem Projekt weiterarbeiten, da
 Zunächst haben wir unseren Block von der letzten Stunde erneut gebaut, der Alonzo die "random"-Bewegung verleiht.Dieses Mal tat er dieses von selbst in einem Abstand von eines Sekunde. Damit es immer blasser wird, haben wir noch die Bausteine "when i'm clicked" und "ghost" hinzugefügt. Um Alonzo wieder sichtbar zu machen, haben wir lediglich Zahl, die die Stärke der Verblassung pro Klick kontrolliert, in eine negative verwandelt. So wurde der Vorgang im Spiel praktisch umgekehrt.Damit das Spiel nich an einer Stelle aufhört, wurde noch der Baustein "forever" eingefügt, sodass der Vorgang innerhalb dieser Klammer ewig abläuft. 
 Je niedriger wir die Sekundenzahl,nach der Alonzo sich bewegt, gesetzt haben, desto schwieriger wurde das Spiel.  
 
-![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Fünfte%20Stunde.png?raw=true "Screenshot von AppLab")
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/5.%20Stunde.png?raw=true "Screenshot von AppLab")
 Dies ist unser Block zu dem erstellten Spiel
 
 
