@@ -22,7 +22,7 @@
 Heute haben wir unser Halbjahresprojekt gestartet. Zunächst haben wir damit begonnen, mit dem Onlineprogramm CODE einige leichterte Aufgaben im Bereich der Blockschrift zu bearbeiten,da uns diese Art von Programmieren gefallen hat. Einige Schwierigkeiten ergaben sich bei „Level 22 Extrem- Herausforderung“, beim Erreichen der niedrigsten möglichen Blockzahl. Unser Ziel setzten wir uns bei 10 Blöcken, mit einigen Versuchen senkten wir unsere Anzahl von 16 auf 11 Blöcke. Mit diesem Ergebnis sind wir sehr zufrieden, da wir beide noch keinerlei Erfahrungen in diesem Bereich besitzen.
 In der zweiten Stunde erstellten wir beide unsere Profile auf der Webside „Github“ und eröffneten unser erstes Projekt, auf das wir gemeinsam Zugriff haben.
 
-![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/Erste%20Stunde.png?raw=true "Screenshot von AppLab")
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/1.%20Stunde.png?raw=true "Screenshot von AppLab")
 Unsere Lösung für das Eichhörnchen-Rätsel
 
 ### <a name="zwei"></a>Zweite Informatikstunde am 13.09.17
