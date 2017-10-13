@@ -76,3 +76,5 @@ So sieht der Block für die Konversation mit Namensspeicherung aus. Links neben 
 
 
 ### <a name="acht"></a>Achte Informatikstunde am 13.10.17
+
+In der heutigen Doppelstunde haben wir damit begonnen unser ungeordnetes Bilderverzeichnis in eine chronolische Reihenfolge zu bringen. Dafür vereinheitlichten wir die Bildbezeichnungen und luden die erneuerten Datein ein weiteres Mal hoch. Des weiteren beschäftigten wir uns mit einem neuen Kapitel im Programm von "bjc", welches sich mit dem Zeichnen von Formen beschäftigt. Zunächst begannen wir mit einfachen Vielecken und lernten was ein Algorithmus ist.
