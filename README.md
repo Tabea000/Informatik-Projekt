@@ -79,8 +79,8 @@ So sieht der Block für die Konversation mit Namensspeicherung aus. Links neben 
 
 In der heutigen Doppelstunde haben wir damit begonnen unser ungeordnetes Bilderverzeichnis in eine chronolische Reihenfolge zu bringen. Dafür vereinheitlichten wir die Bildbezeichnungen und luden die erneuerten Datein ein weiteres Mal hoch. Des weiteren beschäftigten wir uns mit einem neuen Kapitel im Programm von "bjc", welches sich mit dem Zeichnen von Formen beschäftigt. Zunächst begannen wir mit einfachen Vielecken und lernten was ein Algorithmus ist.
 
-Daraufhin begannen wir unterschiedlich gegliederte "Angles" mehrfarbig zu erstellen:
+Daraufhin begannen wir unterschiedlich gegliederte "Angles" mehrfarbig zu erstellen. Hierfür legten wir Farbe, Längen und die Zeiteinheiten in verschiedenen Bausteinen fest:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.Stunde.png?raw=true "Screenshot von AppLab")
-Hierfür legten wir Farbe, Längen und die Zeiteinheiten fest
+
 
 
