@@ -16,6 +16,8 @@
 
 [Siebte Stunde](#sieben)
 
+[Achte Stunde](#acht)
+
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
 
@@ -73,4 +75,4 @@ So sieht der Block für die Konversation mit Namensspeicherung aus. Links neben 
 
 
 
-
+### <a name="acht"></a>Achte Informatikstunde am 13.10.17
