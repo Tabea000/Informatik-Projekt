@@ -67,6 +67,10 @@ Dies ist unser Block zu dem erstellten Spiel
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 06.10.17
 
+Am heutigen Tage galt die Einheit von "bjc" dem Erstellen eines Gespräches zwischen zwei Figuren. Mit der Zeit entwickelten sich unsere Konversation jedoch über die Inhalte der Lektion etwas hinaus. Wir importierten zwei unterschiedliche Kostüme auf die Stage und erstellten für jede einen Block, der auf den der anderen Figur zeitlich und vom Kontext her genau abgestimmt war. Es galt hierbei darauf zu achten, dass die Zeit in der der Text als Sprechblase sichtbar ist, mit der natürlichen Rededauer übereinstimmt. Andererseits aber auch, dass die andere Figur in der gleichen Zeit dementsprechend schweigen, kurz vor der Antwort überlegt und möglicherweise ein Text in einer Denkblase auftaucht. Hierfür verwendeten wir vorrangig Bausteine wie "say -text- for -x- seconds", "wait -x- seconds" und "think -text- for -x- seconds". Die größte Schwierigkeit ergab sich für uns jedoch dadurch, dass beide Figuren in die gleiche Richtung schauten und, dass das Bearbeitungsprogromm von "Snap!", welches wir einige Wochen zuvor bei Alonzo nutzten, um die Blickrichtung zu ändern, nicht für die von uns verwendeten Kostüme funktionierte. Wir problierten unterschiedliche Wege aus, bis wir Herrn Buhl bei dem Vorgehen um Hilfe baten. Er konnte mittels eines anderen Bearbeitungsprogramms die Figur spieglen, auf dem Computer speichern und von diesem letzendlich auch wieder in das Programm "Snap!" importieren. Wir passten daraufhin noch die Größe an die andere Figur an, und schlossen somit mit unserem ersten längeren Gespräch ab.
+
+Hier sieht man unser Endresultat. Beide Gesprächsblöcke, sind nur sichtbar, da wir einen kopiert und in das Skript der anderen Figur mit eingefügt haben, damit unser Vorgehen besser sichtbar ist:
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/6.%20Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 11.10.17
 
