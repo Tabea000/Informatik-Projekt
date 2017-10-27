@@ -72,6 +72,12 @@ Am heutigen Tage galt die Einheit von "bjc" dem Erstellen eines Gespräches zwis
 Hier sieht man unser Endresultat. Beide Gesprächsblöcke, sind nur sichtbar, da wir einen kopiert und in das Skript der anderen Figur mit eingefügt haben, damit unser Vorgehen besser sichtbar ist:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/6.%20Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
+Diese erste Hälfte der Doppelstunde erforderte viel Konzentration und Zeit. Da wir nun nicht mehr mit einer weiteren Lextion von "bjc" beginnen wollten, wendeten wir uns für die restliche Zeit zwei eigenen Ideen zu, bei deren Umsetzung wir viel Spaß hatten. Bei ersteier fügten erstellten wir ein Mädchen, deren Bilder einige Kostüme ausmachen. Wir importierten 12 von diesen, brachten sie in eine interessante Reihenfolge und erschufen somit eine Tanzchoreographie. Wir entdeckten eine weitere Person, von der ähnliche Gesten ebenfalls zahlreiche Kostüme bildeten, und schufen letzendlich eine synkrone Tanzchoreographie. Dies setzten wir so um, dass beide ihre Kostüme, welche wir in die gleiche Reihenfolge stellten, im gleichen Takt wechselten. 
+
+Die beiden geschriebenen Blcke sihrt man hier wieder, wie eigentlich nicht vorhanden, auf nur einem Skript:
+![bsp applab](https://raw.githubusercontent.com/Tabea000/Informatik-Projekt/master/Bilder/6.%20Stunde%20(4).png "Screenshot von AppLab")
+
+
 ### <a name="sieben"></a>Siebte Informatikstunde am 11.10.17
 
 An diesem Mittwoch wollten wir unsere Fähigkeiten, ein Gespräch zu programmieren, etwas weiter spezialisieren. Unser Onlinekurs "Beauty and Joy of Computering" hielt dafür eine Lerneinheit bereit, die es ermöglicht, dass man im Prinzip selbst eine Konversation mit einer Figur aus dem Programm führt. Das Endergebnis war das Erstellen einer sogenannte "player list", die sich Namen merkt, nachdem sie in die Selbige eingetragen worden sind. Zu Beginn mussten wir die Frage der Figur nach deinen Namen programmieren. Wurde man nun nach diesem gefragt, konnte man diesen eingegeben. Daraufhin wurde er auf der Liste gespeichert und die Figur antwortete mit "Nice to meet you". Hat man nun einen bereits vorgemerkten Namen bei einem weiteren Durchgang eingegeben, so wurde man mit "Nice to meet you again,-Name-" begrüßt. 
