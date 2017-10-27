@@ -88,8 +88,9 @@ Daraufhin begannen wir unterschiedlich gegliederte "Angles" mehrfarbig zu erstel
 Des weiteren erstellten wir verschiedene "pinweel"-Blöcke, die leicht zu verstehen, jedoch umständlich zu schreiben waren:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.%20Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
-Durch das Erstellen eines eigenen Bausteins konnten wir den langen Block auf einen einzelnen, selbst erstellten "pinwheel+branches" Baustein begrenzen.
+Durch das Erstellen eines eigenen Bausteins konnten wir den langen Block auf einen einzelnen, selbst erstellten "pinwheel+branches" Baustein begrenzen. Hierbei ist der Vorgang zu sehen:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
+Das Ergebnis ermöglicht es durch die Eingabe einer Ziffer die Anzhl der Ecken des "Pinwheels" festzulegen:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.%20Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
