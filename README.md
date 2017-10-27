@@ -85,10 +85,10 @@ In der heutigen Doppelstunde haben wir zunächst damit begonnen, unser ungeordne
 Daraufhin begannen wir unterschiedlich gegliederte "Angles" mehrfarbig zu erstellen. Hierfür legten wir Farbe, Längen und die Zeiteinheiten in verschiedenen Bausteinen fest:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.Stunde.png?raw=true "Screenshot von AppLab")
 
-Des weiteren erstellten wir einen "pinweel"-Block:
+Des weiteren erstellten wir verschiedene "pinweel"-Blöcke, die leicht zu verstehen, jedoch umständlich zu schreiben waren:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.%20Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
-Durch das Erstellen eines eigenen Bausteins konnten wir den langen Block auf einen "pinwheel+branches" Baustein begrenzen.
+Durch das Erstellen eines eigenen Bausteins konnten wir den langen Block auf einen einzelnen, selbst erstellten "pinwheel+branches" Baustein begrenzen.
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.%20Stunde%20(3).png?raw=true "Screenshot von AppLab")
