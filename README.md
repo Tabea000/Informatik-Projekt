@@ -74,8 +74,13 @@ Hier sieht man unser Endresultat. Beide Gesprächsblöcke, sind nur sichtbar, da
 
 Diese erste Hälfte der Doppelstunde erforderte viel Konzentration und Zeit. Da wir nun nicht mehr mit einer weiteren Lextion von "bjc" beginnen wollten, wendeten wir uns für die restliche Zeit zwei eigenen Ideen zu, bei deren Umsetzung wir viel Spaß hatten. Bei ersteier fügten erstellten wir ein Mädchen, deren Bilder einige Kostüme ausmachen. Wir importierten 12 von diesen, brachten sie in eine interessante Reihenfolge und erschufen somit eine Tanzchoreographie. Wir entdeckten eine weitere Person, von der ähnliche Gesten ebenfalls zahlreiche Kostüme bildeten, und schufen letzendlich eine synkrone Tanzchoreographie. Dies setzten wir so um, dass beide ihre Kostüme, welche wir in die gleiche Reihenfolge stellten, im gleichen Takt wechselten. 
 
-Die beiden geschriebenen Blcke sihrt man hier wieder, wie eigentlich nicht vorhanden, auf nur einem Skript:
+Die beiden geschriebenen Blcke sieht man hier wieder, wie eigentlich nicht vorhanden, auf nur einem Skript:
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/Informatik-Projekt/master/Bilder/6.%20Stunde%20(4).png "Screenshot von AppLab")
+
+In den letzten paar verbliebenen Minuten widmeten wir uns einem Flugzeug, welches uns beim Importieren von Kostümen zuvor aufgefallen war. Wir setzen es in die Stage, schrieben ihm einen Block und ließen kurz vorwärts fliegen und es daraufhin nach mehrfachen Saltos in einem steilen Winkel aus dem Bild fliegen.
+
+Wir verwendeten für jeden der Schritte, auch wenn es nachträglich gesehen, nicht notwendig gewesen wäre "Repeat-Schleifen":
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/6.%20Stunde%20(5).png?raw=true "Screenshot von AppLab")
 
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 11.10.17
