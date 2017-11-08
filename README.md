@@ -129,22 +129,20 @@ Das Ergebnis ermöglichte es, durch die Eingabe einer Ziffer, die Anzahl der Eck
 ### <a name="neun"></a>Neunte Informatikstunde am 01.11.17
 
 Heute haben wir an dem Kapitel bezüglich der Pinwheels weitergearbeitet und konnten einige Fortschritte erziehlen. Zu Beginn hatten wir jedoch die Schwierigkeit in unseren gespeicherten Unterlagen auf unserem Snap Account den "pinwheel+branches:" Baustein zu finden. Durch das Öffnen eines anderen Ordners gelang es uns schließlich unsere begonne Arbeit aus der letzten Stunde wieder aufzunehmen. 
-Zuvor konnte man den Weg, den der "pen" sich wiedert rückwärts bewegt, nur duch Änderungen über "edit block" erreichen. Der Nachteil war hierbei, dass der Baustein daraufhin diese Änderung in sich trug. 
+Zuvor konnte man den Weg, den der "pen" sich wiedert rückwärts bewegt, nur duch Änderungen über "edit block" erreichen. Der Nachteil war hierbei, dass der Baustein daraufhin diese Änderung in sich trug und man für jedes neue Pinwheel erneut den Edit-Block umschreiben musste: 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.%20Stunde.png?raw=true "Screenshot von AppLab")
 
-Nach unserer Änderung, dem Hinzufügen eines freien Feldes, welches die "backups", also die Rückwärtsschritte, beeinflusst, konnten wir ein ähnliches Arbeitsergebin in wesentlich kürzerer Zeit erreichen. Zudem wurde es uns bewusst, dass wir noch zahlreiche andere Möglichkeiten der Veränderung und Spezialisierung des Pinwheel-Bausteins haben.
+Nach unserer Änderung, dem Hinzufügen eines freien Feldes, welches die "backups", also die Rückwärtsschritte, beeinflusst, konnten wir ein ähnliches Arbeitsergebin in wesentlich kürzerer Zeit erreichen. Zudem wurde es uns bewusst, dass wir noch zahlreiche andere Möglichkeiten der Veränderung und Spezialisierung des Pinwheel-Bausteins haben:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
 Die letzte Aufgabe die wir in dieser Stunde bearbeiten konnten bezog sich darauf, auch kleinere Strecken ohne überragende Striche zu programmieren. Sind die backup-Schritte positiv, so werden diese auf die forward-Schritte, die im Edit-Block festgelegt sind, addiert. Leider war es uns heute nur möglich mittels einer Reduzierung der forward-Schritte im Editblock dieses Vorgegen zu ermöglichen. Daraufhin mussten wir nur noch die backup-Schritte ins Positive steigern und folgendes Muster entstand:
-![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(3).png?raw=true "Screenshot von AppLab")
+#####![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 
    
-   
-   
-   
-
 ### <a name="zehn"></a>Zehnte Informatikstunde am 03.11.17
+
+
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde.png?raw=true "Screenshot von AppLab")
 
