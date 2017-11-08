@@ -144,12 +144,10 @@ Die letzte Aufgabe die wir in dieser Stunde bearbeiten konnten bezog sich darauf
 
 Am Anfang dieser Stunde besprachen wir unsere Ergebnisse im Kapitel der Pinwheel bezüglich unseres nun schon herrannahenden Abgabetermins. Zudem schauten wir uns die nächsten Kaptitel des ersten Units von bjc an und waren uns schließlich einig, dass es letzendlich ein schöneres Ergebnis wäre, das erste Unit "Introducing to Programming" weitestgehend vollständig abzuschließen, um einen möglichst weitgefächerten Eindruck in die Vielfalt des Progammierens betreits auf einfachster Ebene zu erlangen. Somit beschlossen wir, die Pinwheel-Einheit in etwas verkürzter Weise abzuschließen und uns in der zweiten Hälfteder Stunde mit dem nächsten Kapitel zu befassen.
 
-
+Zunächst galt es das Vorgehen, welches wir letzte Stunde begonnen hatten weiterzuverfolgen. Wir erweiterten den Pinwheelbaustein un ein weiteres Eingabefeld, welches nun zusätzlich zu der Eckenanzahl ("branches") und der Rückwärtsbewegung ("backup") auch die "size", also die Forwärtsbewegung, steunern konnte. In diesem Screenshot ist unser Ergebnis als baustein und in Form seines Edit-Blockes, zuzüglich zweier Beispiele, zu sehen:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde.png?raw=true "Screenshot von AppLab")
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(2).png?raw=true "Screenshot von AppLab")
-
-![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(4).png?raw=true "Screenshot von AppLab")
 
