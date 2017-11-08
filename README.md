@@ -34,15 +34,12 @@ Unsere Lösung für das Eichhörnchen-Rätsel
 
 
 
-
 ### <a name="zwei"></a>Zweite Informatikstunde am 13.09.17
 
 In dieser Stunde haben wir uns weiter mit „Github" auseinandergesetzt. Da uns ein Fehler unterlaufen ist (Juliane hat Tabea ausversehen aus dem Projekt ausgeschlossen) und wir diesen nicht beheben konnten, mussten wir einen alternativen Weg gehen und ein neues Projekt starten. Mit der Hilfe von Herrn Buhl haben wir es geschafft, unseren ersten Bericht über das Inhaltsverzeichnis zu verlinken. Des weiteren haben wir versucht, ein Bildverzeichnis zu erstellen und Screenshots hochzuladen. Dazu haben wir uns Lernvideos angeguckt, jedoch mussten wir die Ausführung auf die nächste Stunde verschieben, da uns keine weitere Zeit verblieb. 
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/2.%20Stunde.png?raw=true "Screenshot von AppLab")
 Unsere Links im Raw-Modus
-
-
 
 
 
@@ -61,14 +58,12 @@ Das sind die angebotenen Kurse von "bjc"
 
 
 
-
 ### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
 
 Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten und auch einfachsten Kurs an, um uns mit diesem Programm vertraut zu machen. In diesem galt es das Wesen "Alonzo" in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Dies haben wir geschafft, indem wir ein zweites Alonzo-Kostüm importiert haben und jenes über das edit-Programm spiegelverkehrt zum ersten "Alonzo" gespeichert haben. Nachdem wir den Baustein "when i'm clicked" und "next costume" zusammengestellt haben, hat das Bild zwischen den beiden Alonzos gewechselt und somit hat sich folgich die  Blickrichtung des Wesens verändert. Zudem haben wir es geschafft, dass Alonzo über den Baustein von "say..." gesprochen hat. Zum Ende der Stunde hin haben wir mit Hilfe der Programmiersprache Alonzo "random" im Feld herumspringen lassen. Dies gelang uns mit dem Bausteinen "go to x(),y()", wo man einen Punkt aus dem Feld einträgt, zu dem sich etwas bewegen soll. Indem wir "pick random" bei x und y eingesetzt haben, wurden zufällig Punkte ausgesucht, zu denen sich Alonzo bewegte.
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/4.%20Stunde.3.png?raw=true "Screenshot von AppLab")
 Der Block für das zufällige Bewegen und für das Sprechen 
-
 
 
 
@@ -81,9 +76,6 @@ Je niedriger wir die Sekundenzahl, nach der Alonzo sich bewegt, gesetzt haben, d
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/5.%20Stunde.png?raw=true "Screenshot von AppLab")
 Dies ist unser Block zu dem erstellten Spiel
-
-
-
 
 
 
@@ -103,8 +95,6 @@ In den letzten paar verbliebenen Minuten widmeten wir uns einem Flugzeug, welche
 
 Wir verwendeten für jeden der Schritte, auch wenn es nachträglich gesehen, nicht notwendig gewesen wäre "Repeat-Schleifen":
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/6.%20Stunde%20(5).png?raw=true "Screenshot von AppLab")
-
-
 
 
 
@@ -136,17 +126,16 @@ Das Ergebnis ermöglichte es, durch die Eingabe einer Ziffer, die Anzahl der Eck
 
 
 
-
-
-
-
-
 ### <a name="neun"></a>Neunte Informatikstunde am 01.11.17
 
+Heute haben wir an dem Kapitel bezüglich der Pinwheels weitergearbeitet und konnten einige Fortschritte erziehlen. Zu Beginn hatten wir jedoch die Schwierigkeit in unseren gespeicherten Unterlagen auf unserem Snap Account den "pinwheel+branches:" Baustein zu finden. Durch das Öffnen eines anderen Ordners gelang es uns schließlich unsere begonne Arbeit aus der letzten Stunde wieder aufzunehmen. 
+Zuvor konnte man den Weg, den der "pen" sich wiedert rückwärts bewegt, nur duch Änderungen über "edit block" erreichen. Der Nachteil war hierbei, dass der Baustein daraufhin diese Änderung in sich trug. 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.%20Stunde.png?raw=true "Screenshot von AppLab")
 
+Nach unserer Änderung, dem Hinzufügen eines freien Feldes, welches die "backups", also die Rückwärtsschritte, beeinflusst, konnten wir ein ähnliches Arbeitsergebin in wesentlich kürzerer Zeit erreichen. Zudem wurde es uns bewusst, dass wir noch zahlreiche andere Möglichkeiten der Veränderung und Spezialisierung des Pinwheel-Bausteins haben.
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
+Die letzte Aufgabe die wir in dieser Stunde bearbeiten konnten bezog sich darauf, auch kleinere Strecken ohne überragende Striche zu programmieren. Sind die backup-Schritte positiv, so werden diese auf die forward-Schritte, die im Edit-Block festgelegt sind, addiert. Leider war es uns heute nur möglich mittels einer Reduzierung der forward-Schritte im Editblock dieses Vorgegen zu ermöglichen. Daraufhin mussten wir nur noch die backup-Schritte ins Positive steigern und folgendes Muster entstand:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 
