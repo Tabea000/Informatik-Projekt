@@ -136,12 +136,13 @@ Nach unserer Änderung, dem Hinzufügen eines freien Feldes, welches die "backup
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
 Die letzte Aufgabe die wir in dieser Stunde bearbeiten konnten bezog sich darauf, auch kleinere Strecken ohne überragende Striche zu programmieren. Sind die backup-Schritte positiv, so werden diese auf die forward-Schritte, die im Edit-Block festgelegt sind, addiert. Leider war es uns heute nur möglich mittels einer Reduzierung der forward-Schritte im Editblock dieses Vorgegen zu ermöglichen. Daraufhin mussten wir nur noch die backup-Schritte ins Positive steigern und folgendes Muster entstand:
-#####![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(3).png?raw=true "Screenshot von AppLab")
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 
    
 ### <a name="zehn"></a>Zehnte Informatikstunde am 03.11.17
 
+Am Anfang dieser Stunde besprachen wir unsere Ergebnisse im Kapitel der Pinwheel bezüglich unseres nun schon herrannahenden Abgabetermins. Zudem schauten wir uns die nächsten Kaptitel des ersten Units von bjc an und waren uns schließlich einig, dass es letzendlich ein schöneres Ergebnis wäre, das erste Unit "Introducing to Programming" weitestgehend vollständig abzuschließen, um einen möglichst weitgefächerten Eindruck in die Vielfalt des Progammierens betreits auf einfachster Ebene zu erlangen. Somit beschlossen wir, die Pinwheel-Einheit in etwas verkürzter Weise abzuschließen und uns in der zweiten Hälfteder Stunde mit dem nächsten Kapitel zu befassen.
 
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde.png?raw=true "Screenshot von AppLab")
