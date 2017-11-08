@@ -114,7 +114,29 @@ Durch das Erstellen eines eigenen Bausteins konnten wir den langen Block auf ein
 Das Ergebnis ermöglicht es durch die Eingabe einer Ziffer die Anzhl der Ecken des "Pinwheels" festzulegen:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.%20Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
-### <a name="neun"></a>Neunte Informatikstunde am 13.09.17
 
-### <a name="zehn"></a>Zehnte Informatikstunde am 13.09.17
 
+### <a name="neun"></a>Neunte Informatikstunde am 01.11.17
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.%20Stunde.png?raw=true "Screenshot von AppLab")
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(2).png?raw=true "Screenshot von AppLab")
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(3).png?raw=true "Screenshot von AppLab")
+
+
+
+
+### <a name="zehn"></a>Zehnte Informatikstunde am 03.11.17
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde.png?raw=true "Screenshot von AppLab")
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(2).png?raw=true "Screenshot von AppLab")
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(3).png?raw=true "Screenshot von AppLab")
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(4).png?raw=true "Screenshot von AppLab")
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.%20Stunde%20(5).png?raw=true "Screenshot von AppLab")
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(5).png?raw=true "Screenshot von AppLab")
