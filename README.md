@@ -22,6 +22,7 @@
 
 [Zehnte Stunde](#zehn)
 
+[Elfte Stunde](#elf)
 
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
@@ -58,7 +59,7 @@ Das sind die angebotenen Kurse von "bjc"
 
 
 
-### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
+### <a name="vier"></a>Vierte Inform## <a name="vier"></a>Vierte Informatikstunde am 20.09.17atikstunde am 20.09.17 
 
 Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten und auch einfachsten Kurs an, um uns mit diesem Programm vertraut zu machen. In diesem galt es das Wesen "Alonzo" in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Dies haben wir geschafft, indem wir ein zweites Alonzo-Kostüm importiert haben und jenes über das edit-Programm spiegelverkehrt zum ersten "Alonzo" gespeichert haben. Nachdem wir den Baustein "when i'm clicked" und "next costume" zusammengestellt haben, hat das Bild zwischen den beiden Alonzos gewechselt und somit hat sich folgich die  Blickrichtung des Wesens verändert. Zudem haben wir es geschafft, dass Alonzo über den Baustein von "say..." gesprochen hat. Zum Ende der Stunde hin haben wir mit Hilfe der Programmiersprache Alonzo "random" im Feld herumspringen lassen. Dies gelang uns mit dem Bausteinen "go to x(),y()", wo man einen Punkt aus dem Feld einträgt, zu dem sich etwas bewegen soll. Indem wir "pick random" bei x und y eingesetzt haben, wurden zufällig Punkte ausgesucht, zu denen sich Alonzo bewegte.
 
@@ -157,3 +158,9 @@ Dieser Screenshot vereint zwei Experimente, mit denen wir das Pinwheel-Kapitel a
 Damit brach unsere zweite Hälfte es Unterrichts an, in der wir das 5. Kaptiel "Follow the leader" eröffneten. Hierbei war es im ersten Schritt notwenig für den ersten "Spite" ein Script zu erstellen. Als Figur wählten ir wählten eine Fledermaus aus, deren zwei Kostüme sich schnell abwechselten, sodass der Eindruck entstand, dass sie fliegt. Desweiteren erstellten wir wir einen Block, der die Flugrichtung bestimmte. Nach "wait 1 sec", "glide"  die Fledermaus zu den Koordinatenpunkten der Maus (mouse x, mouse y).
 Zuletzt erweiterten wir das Prinzip auf einen weiteren "Spite", einem fliegenen Teppich, der sich chneller als die Fledermaus bewegen sollten. Wir übernahmen zunächst den Bewegungsblock, verkürzten dann die Zeit des Wartens bis zum Losflug und erhöhten zusätzluich die Geschwindigkeit des Gleitens. Hier ist unserer Endresultat der ersten Lehreinheit des neuen Kapitels:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde%20(5).png?raw=true "Screenshot von AppLab")
+
+
+
+### <a name="elf"></a>Elfte Informatikstunde am 08.11.17
+
+
