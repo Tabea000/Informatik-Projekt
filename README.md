@@ -163,4 +163,9 @@ Zuletzt erweiterten wir das Prinzip auf einen weiteren "Spite", einem fliegenen 
 
 ### <a name="elf"></a>Elfte Informatikstunde am 08.11.17
 
+In der heutigen Stunde entwickelten wir Blöcke durch die man die Maus mit den Pfeilen auf der Tastatur bewegen kann. Der Ablauf dieses "Spiels" ist in etwa mit "Snake" zu vergleichen, da die Schlange auf gleicher Weise kontrolliert wird. 
+Der Block hierfür wurde zunächst mit dem Control-Block "when()key pressed" begonnen. In der Lücke gab man nun die Taste ein, mit der man die Maus bewegen möchte (für "up arrow", "down arrow", "right arrow" und "left arrow" jeweils ein Block). Damit die Maus sich auch in die für einen Pfeil zugehörige Richtung bewegt, fügten wir "point in direction()" mit jeweils 0,180,90 und -90 zum justieren der Mausspitze hinzu und schlussendlich auch den bereits bekannten "move()steps"-Baustein.
+Um letztendlich solche Bilder/Linien wie in unserem Screenshot zeichnen zu können, bastelten wir noch einen Block, der bei gewolltem Neustart ( klick auf die Fahne) den "pen" absetzt und wieder mittig (x=0; y=0) absetzt. Zudem werden vorigen Linien gelöscht. In diesem Block kann man neben der Farbe auch die Größe des "pens" bestimmen. 
 
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/11.%20Stunde%20(2).png?raw=true "Screenshot von AppLab")
+Hier unsere Blöcke zur Kontrolle der Maus per Tastatur
