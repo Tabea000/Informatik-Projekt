@@ -24,6 +24,8 @@
 
 [Elfte Stunde](#elf)
 
+[Zwlfte Stunde](#zwölf)
+
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
 
@@ -165,9 +167,13 @@ Zuletzt erweiterten wir das Prinzip auf einen weiteren "Spite", einem fliegenen 
 
 In der heutigen Stunde entwickelten wir Blöcke durch die man die Maus mit den Pfeilen auf der Tastatur bewegen und rechtwinklige Formen zeichnen kann. Der Ablauf dieses "Spiels" ist in etwa mit "Snake" zu vergleichen, da die Schlange auf gleicher Weise gesteuert wird. 
 Der Block hierfür wurde zunächst mit dem Control-Block "when()key pressed" begonnen. In der Lücke gab man nun die Taste ein, mit der man die Maus bewegen möchte (für "up arrow", "down arrow", "right arrow" und "left arrow" jeweils ein Block). Damit die Maus sich auch in die für einen Pfeil zugehörige Richtung bewegt, fügten wir "point in direction()" mit jeweils 0,180,90 und -90 zum justieren der Mausspitze hinzu und schlussendlich auch den bereits bekannten "move()steps"-Baustein.
-Um letztendlich solche Bilder/Linien wie in unserem Screenshot zeichnen zu können, bastelten wir noch einen Block, der bei gewolltem Neustart ( klick auf die Fahne) den "pen" absetzt und wieder mittig (x=0; y=0) absetzt. Zudem werden vorigen Linien gelöscht. In diesem Block kann man neben der Farbe auch die Größe des "pens" bestimmen.
-Leider konnten wir dieses Projekt bis Stundenende nicht komplett abschließen, da zu Beginn der Stunde die Abipullover an uns versteilt wurden.
+Um letztendlich solche Bilder/Linien wie in unserem Screenshot zeichnen zu können, bastelten wir noch einen Block, der bei gewolltem Neustart ( klick auf die Fahne) den "pen" absetzt und wieder mittig (x=0; y=0) bereitstellt. Zudem werden vorigen Linien gelöscht. In diesem Block kann man neben der Farbe auch die Größe des "pens" bestimmen.
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/11.%20Stunde%20(2).png?raw=true "Screenshot von AppLab")
 Hier unsere Blöcke zur Kontrolle der Maus per Tastatur
 
+Leider konnten wir dieses Projekt bis Stundenende nicht komplett abschließen, da zu Beginn der Stunde die Abipullover an uns versteilt wurden. Unser eigen entwickeltes Ziel und den Weg der Umsetztung dessens konnten wir in der verbliebenen Zeit jedoch noch noch weitestgehend besprechen. Wir planten, uns dem Snake Spiel weiter anzugleichen, indem wir die Vorwärtsbewegung unabhängig der Tastaturbedienung einstellen. Hierzu hätten wir einn weiteren Block aus den Bausteinen "repeat forever", "move () steps" und "wait () secs" erstellt. Zusätzlich hätte man nur noch von den Controll-Blöcken jeweils den "move () steps" entfernen müssen um eine weitaus effektivere und ruhigere Zeichen-Methode zu entwickeln. 
+In der Folgestunde wollten wir diese recht simplen Aufgabe nicht mehr umsetzen, da nun auch der Abgabetermin kurz bevor stand.
+
+
+### <a name="zwölf"></a>Zwölfte Informatikstunde am 15.11.17
