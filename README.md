@@ -24,7 +24,7 @@
 
 [Elfte Stunde](#elf)
 
-[Zwlfte Stunde](#zwölf)
+[Zwölfte Stunde](#zwölf)
 
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
@@ -177,3 +177,10 @@ In der Folgestunde wollten wir diese recht simplen Aufgabe nicht mehr umsetzen, 
 
 
 ### <a name="zwölf"></a>Zwölfte Informatikstunde am 15.11.17
+
+Planmäßig stand nach dem Ende der heutigen Informatikstunde die Abgabe unseres Projekt-Protokolls an, weshalb zunächst nur der Plan bestand unsere Materialien auf die Bewertungs-Kriterien zu überprüfen. Da jedoch offensichtlich wurde, dass einige Gruppen noch etwas Zeit benötigten wurde dieser Termin auf das kommende Wochenende verschoben und wir erkannten die Möglichkeit nun uns der Aufgabe zu widmen, die wir für die entfallene Doppelstunde am Freitag uns vorgenommen hatten, dem Programmieren des Mini-Spieles Pong. Dieses Projekt soll nun für uns den Abschluss des ersten Units des Curriculums von Bjc Intoducing to Programming bilden und unsere Erfahrungen, die wir erlangt haben widerspiegeln, indem es weitestgehen ohne Hilfe und vielmehr durch Experimentieren gelöst wird.
+
+Benötigt werden hierfür zwei grundlegene Elemente, welche vorgegebene Eigenschaften erfüllen müssen. Zum einen ein Ball, der nur auf der Seite des "Paddels" die stage verlassen kann und von allen anderen Seiten wieder abprallt (Einfallwinkel = Ausfallwinkel), und zum anderen das "Paddel", welches sich an einer Seite auf und abwärts bewegt und den einzigen Widerstand für den Ball auf dieser Seite darstellt. In dieser Stunde begannen wir mit dem Skript des Paddels und schlossen dieses ab (s. Sceenshot), während wir mit dem Blall in der nächsten Stunde fortfahren möchten. Die Steuerung des Paddels machten wir durch die Pfeiltasten möglich und nutzen dafür den Control-Block "when (up arrow/ down arrow) key pressd". An der Ober- und Unterseite der stage sollte er bei zu häufigem Klicken stehen bleiben, wofür wir den Baustein "if on edge, bounce" in beide Controllblöcke einfügten. Da wir jedoch zunächst für die Forwärts-/Rückwärtsbewegung den Baustein "move (10/-10)" nutzen wechselte sich bei jedem "edge-Kontakt" die Bewegungsrichtung. Nach einigen leider erfolglosen Eigenversuchen, wie dem Erstellen eines Blockes, der bei edge-Kontakt die Richtung ein weiteres Mal ändern sollte, nutzen wir aufgrund der fortschreitenden Zeit, die bei der Einheit verlinkten Hinweise. Jene schlugen den Gebrauch des Bausteins "change y by (15/-15)" anstelle des "move"-Elements vor. 
+
+Das Ergebnis wurde augenblicklich bei der Umsetzung sichtbar, was uns den ersten Schritt zur Umsetzung dieses kleinen Projektes näher brachte. Zuletzt fügten wir noch ein Ball-Costume als zweiten spite auf die stage und beendeten die Stunde. Dies ist der letzte Stand, den wir heute erreicht haben:
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/12.%20Stunde.png?raw=true "Screenshot von AppLab")
