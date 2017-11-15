@@ -115,13 +115,13 @@ So sieht der Block für die Konversation mit Namensspeicherung aus. Links neben 
 
 In der heutigen Doppelstunde haben wir zunächst damit begonnen, unser ungeordnetes Bilderverzeichnis in eine chronolische Reihenfolge zu bringen. Dafür vereinheitlichten wir die Bildbezeichnungen und luden die erneuerten Dateien ein weiteres Mal hoch, was im Gesamten einen aufwendigen Vorgang darstellte. Daraufhin beschäftigten wir uns mit einem neuen Kapitel im Programm von "bjc", welches sich mit dem Zeichnen von Formen beschäftigt. Zunächst begannen wir mit einfachen Vielecken und lernten was ein Algorithmus ist.
 
-Daraufhin begannen wir unterschiedlich gegliederte "Angles" mehrfarbig zu erstellen. Hierfür legten wir Farbe, Längen und die Zeiteinheiten in verschiedenen Bausteinen fest:
+Daraufhin begannen wir unterschiedlich gegliederte und mehrfarbige "Angles" zu erstellen. Hierfür legten wir Farbe, Längen und die Zeiteinheiten in verschiedenen Bausteinen fest:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.Stunde.png?raw=true "Screenshot von AppLab")
 
-Des weiteren erstellten wir verschiedene "pinweel"-Blöcke, die leicht zu verstehen, jedoch umständlich zu schreiben waren:
+Des Weiteren erstellten wir verschiedene "pinweel"-Blöcke, die leicht zu verstehen, jedoch umständlich zu schreiben waren:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.%20Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
-Durch das Erstellen eines eigenen Bausteins konnten wir den langen Block auf einen einzelnen, selbst erstellten "pinwheel+branches" Baustein begrenzen. Hierbei ist der Vorgang zu sehen:
+Durch das Erstellen eines eigenen Bausteins konnten wir den langen Block auf einen einzelnen, selbst erstellten "pinwheel+branches" Baustein, begrenzen. Hierbei ist der Vorgang zu sehen:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/8.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 Das Ergebnis ermöglichte es, durch die Eingabe einer Ziffer, die Anzahl der Ecken des "Pinwheels" festzulegen:
@@ -131,23 +131,23 @@ Das Ergebnis ermöglichte es, durch die Eingabe einer Ziffer, die Anzahl der Eck
 
 ### <a name="neun"></a>Neunte Informatikstunde am 01.11.17
 
-Heute haben wir an dem Kapitel bezüglich der Pinwheels weitergearbeitet und konnten einige Fortschritte erziehlen. Zu Beginn hatten wir jedoch die Schwierigkeit in unseren gespeicherten Unterlagen auf unserem Snap Account den "pinwheel+branches:" Baustein zu finden. Durch das Öffnen eines anderen Ordners gelang es uns schließlich unsere begonne Arbeit aus der letzten Stunde wieder aufzunehmen. 
-Zuvor konnte man den Weg, den der "pen" sich wiedert rückwärts bewegt, nur duch Änderungen über "edit block" erreichen. Der Nachteil war hierbei, dass der Baustein daraufhin diese Änderung in sich trug und man für jedes neue Pinwheel erneut den Edit-Block umschreiben musste: 
+Heute haben wir an dem Kapitel bezüglich der Pinwheels weitergearbeitet und konnten einige Fortschritte erziehlen. Zu Beginn hatten wir jedoch die Schwierigkeit in unseren gespeicherten Unterlagen auf unserem Snap Account den "pinwheel+branches:" Baustein wiederzufinden. Durch das Öffnen eines anderen Ordners gelang es uns schließlich, unsere begonne Arbeit aus der letzten Stunde wieder aufzunehmen. 
+Zuvor konnte man den Weg, den der "pen" sich wieder rückwärts bewegt, nur duch Änderungen über "edit block" erreichen. Der Nachteil war hierbei, dass der Baustein daraufhin diese Änderung in sich trug und man für jedes neue Pinwheel erneut den Edit-Block umschreiben musste: 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.%20Stunde.png?raw=true "Screenshot von AppLab")
 
-Nach unserer Änderung, dem Hinzufügen eines freien Feldes, welches die "backups", also die Rückwärtsschritte, beeinflusst, konnten wir ein ähnliches Arbeitsergebin in wesentlich kürzerer Zeit erreichen. Zudem wurde es uns bewusst, dass wir noch zahlreiche andere Möglichkeiten der Veränderung und Spezialisierung des Pinwheel-Bausteins haben:
+Nach unserer Überarbeitung, dem Hinzufügen eines freien Feldes, welches die "backups", also die Rückwärtsschritte, beeinflusst, konnten wir ein ähnliches Arbeitsergebin in wesentlich kürzerer Zeit erreichen. Zudem wurde uns bewusst, dass wir noch zahlreiche andere Möglichkeiten der Veränderung und Spezialisierung des Pinwheel-Bausteins haben:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(2).png?raw=true "Screenshot von AppLab")
 
-Die letzte Aufgabe die wir in dieser Stunde bearbeiten konnten bezog sich darauf, auch kleinere Strecken ohne überragende Striche zu programmieren. Sind die backup-Schritte positiv, so werden diese auf die forward-Schritte, die im Edit-Block festgelegt sind, addiert. Leider war es uns heute nur möglich mittels einer Reduzierung der forward-Schritte im Editblock dieses Vorgegen zu ermöglichen. Daraufhin mussten wir nur noch die backup-Schritte ins Positive steigern und folgendes Muster entstand:
+Die letzte Aufgabe die wir in dieser Stunde bearbeiten konnten, bezog sich darauf, auch kleinere Strecken ohne überragende Striche zu programmieren. Sind die backup-Schritte positiv, so werden diese auf die forward-Schritte, die im Edit-Block festgelegt sind, addiert. Leider war es uns heute nur möglich, mittels einer Reduzierung der forward-Schritte im Editblock dieses Vorgegen umzusetzten. Daraufhin mussten wir nur noch die backup-Schritte ins Positive steigern und folgendes Muster entstand:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.Stunde%20(3).png?raw=true "Screenshot von AppLab")
 
 
    
 ### <a name="zehn"></a>Zehnte Informatikstunde am 03.11.17
 
-Am Anfang dieser Stunde besprachen wir unsere Ergebnisse im Kapitel der Pinwheel bezüglich unseres nun schon herrannahenden Abgabetermins. Zudem schauten wir uns die nächsten Kaptitel des ersten Units von bjc an und waren uns schließlich einig, dass es letzendlich ein schöneres Ergebnis wäre, das erste Unit "Introducing to Programming" weitestgehend vollständig abzuschließen, um einen möglichst weitgefächerten Eindruck in die Vielfalt des Progammierens betreits auf einfachster Ebene zu erlangen. Somit beschlossen wir, die Pinwheel-Einheit in etwas verkürzter Weise abzuschließen und uns in der zweiten Hälfteder Stunde mit dem nächsten Kapitel zu befassen.
+Am Anfang dieser Stunde besprachen wir zunächst unsere Ergebnisse im Kapitel der Pinwheels bezüglich unseres nun schon herrannahenden Abgabetermins. Zudem schauten wir uns die nächsten Kaptitel des ersten Units von bjc an und waren uns schließlich einig, dass es letzendlich ein schöneres Ergebnis wäre, das erste Unit "Introducing to Programming" weitestgehend vollständig abzuschließen, um einen möglichst weitgefächerten Eindruck in die Vielfalt des Progammierens bereits auf einfachster Ebene zu erlangen. Somit beschlossen wir, die Pinwheel-Einheit in etwas verkürzter Weise zu beenden und uns in der zweiten Hälfte der Stunde mit dem nächsten Kapitel zu befassen.
 
-Zunächst galt es das Vorgehen, welches wir letzte Stunde begonnen hatten weiterzuverfolgen. Wir erweiterten den Pinwheelbaustein un ein weiteres Eingabefeld, welches nun zusätzlich zu der Eckenanzahl ("branches") und der Rückwärtsbewegung ("backup") auch die "size", also die Forwärtsbewegung, steunern konnte. In diesem Screenshot ist unser Ergebnis als baustein und in Form seines Edit-Blockes, zuzüglich zweier Beispiele, zu sehen:
+Zunächst galt es das Vorgehen, welches wir letzte Stunde begonnen hatten, weiterzuverfolgen. Wir erweiterten den Pinwheelbaustein um ein weiteres Eingabefeld, welches nun, zusätzlich zu der Eckenanzahl ("branches") und der Rückwärtsbewegung ("backup"), auch die "size", also die Forwärtsbewegung, steunern konnte. In diesem Screenshot ist unser Ergebnis als Baustein und in Form seines Edit-Blockes, zuzüglich zweier Beispiele, zu sehen:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/10.Stunde.png?raw=true "Screenshot von AppLab")
 
 Hier ist ein Versuch unsererseits über den Pinwheel-Baustein einen Kreis zu programmieren. Punkte/Werte, auf die wir zu achten htten und uns durch einige Versuche erarbeiteten und erschlossen, listen wir hier nun nocheinmal auf.
