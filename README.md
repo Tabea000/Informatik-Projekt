@@ -61,7 +61,7 @@ Das sind die angebotenen Kurse von "bjc"
 
 
 
-### <a name="vier"></a>Vierte Inform## <a name="vier"></a>Vierte Informatikstunde am 20.09.17atikstunde am 20.09.17 
+### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
 
 Nachdem wir uns letzte Woche für das Programm "Beauty and Joy of Computering" entschieden haben, fingen wir heute mit dem ersten und auch einfachsten Kurs an, um uns mit diesem Programm vertraut zu machen. In diesem galt es das Wesen "Alonzo" in die Stage einzufügen und es mit einem Click die Blickrichtung wechseln zu lassen. Dies haben wir geschafft, indem wir ein zweites Alonzo-Kostüm importiert haben und jenes über das edit-Programm spiegelverkehrt zum ersten "Alonzo" gespeichert haben. Nachdem wir den Baustein "when i'm clicked" und "next costume" zusammengestellt haben, hat das Bild zwischen den beiden Alonzos gewechselt und somit hat sich folglich die  Blickrichtung des Wesens verändert. Zudem haben wir es geschafft, dass Alonzo über den Baustein von "say..." gesprochen hat. Zum Ende der Stunde hin haben wir mit Hilfe der Programmiersprache Alonzo "random" im Feld herumspringen lassen. Dies gelang uns mit dem Bausteinen "go to x(),y()", wo man einen Punkt aus dem Feld einträgt, zu dem sich etwas bewegen soll. Indem wir "pick random" bei x und y eingesetzt haben, wurden zufällig Punkte ausgesucht, zu denen sich Alonzo bewegte.
 
