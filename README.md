@@ -1,4 +1,4 @@
-# Informatik-Projekt -> v8d3r4
+# Informatik-Projekt 
 
 ## Unser Stundenblog
 
