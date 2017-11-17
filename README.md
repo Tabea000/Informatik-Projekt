@@ -194,7 +194,8 @@ Das Ergebnis wurde augenblicklich nach Umsetzung sichtbar, was uns den ersten Sc
 
 ### <a name="dreizehn"></a>Dreizehnte Informatikstunde am 17.11.17
 
-Heute haben wir zunächst kleinere Fehler unseres Blogs behoben und noch einige Seiten verlinkt, sodass Herr Buhl einen besseren Zugriff auf unsere Arbeiten erhalten hat. Dafür haben wir uns nocheinmal das Beispielprojekt eines vorherigen Jahrgangs zu Hilfe gezogen. Wir haben unser Snap-Projekt, unter dem sich einigen gespeicherten Lektionen befinden, auf Iserf-Groups unter Klasse12a-> Informatik-> "Tabea und Juliane" in einem Ordner gespeichert. 
+Heute haben wir zunächst kleinere Fehler unseres Blogs behoben und noch einige Seiten verlinkt, sodass Herr Buhl einen besseren Zugriff auf unsere Arbeiten erhalten hat. Dafür haben wir uns nocheinmal das Beispielprojekt eines vorherigen Jahrgangs zu Hilfe gezogen. Wir haben unser Snap-Projekt, unter dem sich einigen gespeicherten Lektionen befinden, auf Iserf-Groups unter Klasse12a-> Informatik-> "Tabea und Juliane" in einem Ordner gespeichert. Falls dieses Vorgehen nicht erfolgreich war, hier nochmal unsere 
+"<a href="http://snap.berkeley.edu/snapsource/snap.html">Snap</a>" Daten: Juliane000; v8d3r4 .
 
  Daraufhin arbeiteten wir an dem "Pong"-Spiel weiter. Es galt zu erreichen, dass der Ball von drei Stage-Seiten zurückprallt und von der vierten Seite durch das Paddle zurückgeworfen wird. L
  
