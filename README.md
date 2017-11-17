@@ -1,6 +1,7 @@
 # Informatik-Projekt 
 
-## Unser Stundenblog
+## Stundenblog von Tabea Schellen und Juliane Matthiesen
+
 
 [Erste Stunde](#eins)
 
@@ -131,7 +132,7 @@ Das Ergebnis ermöglichte es, durch die Eingabe einer Ziffer, die Anzahl der Eck
 
 ### <a name="neun"></a>Neunte Informatikstunde am 01.11.17
 
-Heute haben wir an dem Kapitel bezüglich der Pinwheels weitergearbeitet und konnten einige Fortschritte erzielen. Zu Beginn hatten wir jedoch die Schwierigkeit in unseren gespeicherten Unterlagen auf unserem Snap Account den "pinwheel+branches:" Baustein wiederzufinden. Durch das Öffnen eines anderen Ordners gelang es uns schließlich, unsere begonnene Arbeit aus der letzten Stunde wieder aufzunehmen. 
+Nach den Herbstferien haben wir heute an dem Kapitel bezüglich der Pinwheels weitergearbeitet und konnten einige Fortschritte erzielen. Zu Beginn hatten wir jedoch die Schwierigkeit in unseren gespeicherten Unterlagen auf unserem Snap Account den "pinwheel+branches:" Baustein wiederzufinden. Durch das Öffnen eines anderen Ordners gelang es uns schließlich, unsere begonnene Arbeit aus der letzten Stunde wieder aufzunehmen. 
 Zuvor konnte man den Weg, den der "pen" sich wieder rückwärts bewegt, nur durch Änderungen über "edit block" erreichen. Der Nachteil war hierbei, dass der Baustein daraufhin diese Änderung in sich trug und man für jedes neue Pinwheel erneut den Edit-Block umschreiben musste: 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/9.%20Stunde.png?raw=true "Screenshot von AppLab")
 
