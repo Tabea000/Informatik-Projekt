@@ -58,8 +58,7 @@ Um unser zweites Ziel erreichen zu können, schauten wir uns die Beispiele von H
 Dies ist der Link, mit dem wir die Screenshots in den Bericht eingliedern konnten. Damit dieser als ein solcher sichtbar ist, haben wir ein weiteres Leerzeichen eingebaut. Der komplette Link wird im "raw"-Modus sichtbar.
 
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/3.%20Stunde.png?raw=true "Screenshot von AppLab")
-Das sind die angebotenen Kurse von "bjc"
-
+Das sind die angebotenen Kurse von "<a href="http://bjc.berkeley.edu/website/curriculum.html">"bjc"</a>"
 
 
 ### <a name="vier"></a>Vierte Informatikstunde am 20.09.17 
