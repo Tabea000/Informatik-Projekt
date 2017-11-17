@@ -1,4 +1,4 @@
-# Informatik-Projekt 
+# Informatik-Projekt: Introducing to Programming
 
 ## Stundenblog von Tabea Schellen und Juliane Matthiesen
 
@@ -26,6 +26,8 @@
 [Elfte Stunde](#elf)
 
 [Zwölfte Stunde](#zwölf)
+
+[Dreizehnte Stunde](#dreizehn)
 
 
 ### <a name="eins"></a>Erste Informatikstunde am 08.09.17 
@@ -188,3 +190,6 @@ Die Steuerung des Paddles machten wir durch die Pfeiltasten möglich und nutzen 
 
 Das Ergebnis wurde augenblicklich nach Umsetzung sichtbar, was uns den ersten Schritt zum Abschluss dieses Projektes näher brachte. Zuletzt fügten wir noch ein Ball-Costume als zweiten Sprite auf die Stage und beendeten somit die Stunde. Dies ist der letzte Stand, den wir heute erreicht haben:
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/12.%20Stunde.png?raw=true "Screenshot von AppLab")
+
+
+### <a name="dreizehn"></a>Dreizehnte Informatikstunde am 17.11.17
