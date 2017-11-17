@@ -1,5 +1,5 @@
 # Informatik-Projekt
-###Introducing to Programmnig
+### Introducing to Programming
 
 ## Stundenblog von Tabea Schellen und Juliane Matthiesen
 
