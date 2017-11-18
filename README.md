@@ -1,4 +1,4 @@
-# Informatik-Projekt 
+# <a name="Inhaltsverzeichnis"></a>Informatik-Projekt 
 
 ## Stundenblog von Tabea Schellen und Juliane Matthiesen
 
@@ -209,4 +209,6 @@ Zuletzt baten wir Herrn Buhl um Hilfe und er erstellte uns die letzte Bausteinei
 ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/13.%20Stunde.png?raw=true "Screenshot von AppLab")
 Unser abgeschlossenes Pong Spiel
 
+Mit diesem Endergebnis können wir nun zufrieden unser erstes Informatikprojekt abgeben, das uns einen weit gefächerten ersten Einblick in die Möglichkeiten des Programmierens geben hat. Wir möchten uns in der Zukunft nun Aufgaben mit einem gesteigerten Anspruch widmen und unsere Fähigkeiten weiter ausbauen. 
 
+[Inhaltsverzeichnis](#Inhaltsverzeichnis)
