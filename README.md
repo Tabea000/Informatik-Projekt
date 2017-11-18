@@ -197,7 +197,16 @@ Das Ergebnis wurde augenblicklich nach Umsetzung sichtbar, was uns den ersten Sc
 Heute haben wir zunächst kleinere Fehler unseres Blogs behoben und noch einige Seiten verlinkt, sodass Herr Buhl einen besseren Zugriff auf unsere Arbeiten erhalten hat. Dafür haben wir uns nocheinmal das Beispielprojekt eines vorherigen Jahrgangs zu Hilfe gezogen. Wir haben unser Snap-Projekt, unter dem sich einigen gespeicherten Lektionen befinden, auf Iserf-Groups unter Klasse12a-> Informatik-> "Tabea und Juliane" in einem Ordner gespeichert. Falls dieses Vorgehen nicht erfolgreich war, hier nochmal unsere 
 "<a href="http://snap.berkeley.edu/snapsource/snap.html">Snap</a>" Daten: Juliane000; v8d3r4 .
 
- Daraufhin arbeiteten wir an dem "Pong"-Spiel weiter. Es galt zu erreichen, dass der Ball von drei Stage-Seiten zurückprallt und von der vierten Seite durch das Paddle zurückgeworfen wird. L
- 
- ![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/13.%20Stunde.png?raw=true "Screenshot von AppLab")
- 
+Daraufhin arbeiteten wir an dem "Pong"-Spiel weiter. Es galt zu erreichen, dass der Ball von drei Stage-Seiten zurückprallt und von der vierten Seite durch das Paddle zurückgeworfen wird. Da wir eigentlich heute alles beenden wollten, und nur noch eine Unterrichtsstunde verblieben war, griffen wir erneut auf die Hilfsseite zu. 
+
+Wir schafften es jedoch ohne die Anleitung soweit, dass der Ball sich fortbewegte und bei dem Kontakt mit dem Paddle zurückprallte. Dies gelang uns durch den Block aus den Bausteinen <forever: →  "move 10 steps"> und <if (touching (Sprite)) →  "point in direction (-x direction)">. Dadurch bewegte sich der Ball die ganze Zeit geradeaus, bis er den Sprite 1, in diesem Fall das Paddle, berührte. Daraufhin änderte sich seine Bewegungsrichtung ins Negative, und der Bounce-Effekt trat auf. Da wir als einzige logische Option sahen, den Baustein "if on edge, bounce" zu verwenden, um die restlichen Bedingungen für das Spiel zu erfüllen, konnten wir die letzte Lektion nicht ganz ohne Hilfestellung abschließen. Dieser Baustein ließ den Ball nämlich von jeder der vier Stage-Seiten zurückprallen, wodurch das Spiel "Pong" seinen Zweck nicht erfüllen konnte. Versuche, wie die anderen Seiten durch bewegungslose Sprits zu blockieren, oder einen Baustein zu erstellen, duch den der Ball nicht in höhere Koordinaten, als die Stage an den drei Bounce-Seiten, gelangen konnte, blieben erfolglos.
+
+Die Website bjc schulg uns vor, die auf diesem Screenshot unten aufgelisteten Bausteine zu verwenden. Leider reichten diese auch bei zahlreichen Kombinationsversuchen nicht aus, das erwünschte Ergebnis zu erreichen.
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/13.%20(2)%20Stunde.png?raw=true "Screenshot von AppLab")
+
+Zuletzt baten wir Herrn Buhl um Hilfe und er erstellte uns die letzte Bausteineinheit für unseren Block, welcher einige für uns noch unbekannte Funktionen enthielt. Der Block <if: (not -189 > x position) → "if on edge, bounce" > (s. Screenshot) ermöglichte es, dass der ball an jeder Seite der Stage wieder abprallte, es sei denn, diese besaß eine x-Koordinate größer als 189. Und an dieser befand sich schließlich das beweglich Paddle, das diese seite begrenzen konnte. 
+
+![bsp applab](https://github.com/Tabea000/Informatik-Projekt/blob/master/Bilder/13.%20Stunde.png?raw=true "Screenshot von AppLab")
+Unser abgeschlossenes Pong Spiel
+
+
